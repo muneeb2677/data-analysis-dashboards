@@ -2,7 +2,7 @@
 Crossword Puzzle Game — PyQt5
 A fully playable crossword with clues, cell highlighting, and win detection.
 """
-# hello world
+# hello world hanfa
 import sys
 import random
 from PyQt5.QtWidgets import (
