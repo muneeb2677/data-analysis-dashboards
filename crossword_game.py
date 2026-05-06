@@ -4,6 +4,7 @@ A fully playable crossword with clues, cell highlighting, and win detection.
 """
 # hello world hanfa
 #hi hello hru
+#game project
 import sys
 import random
 from PyQt5.QtWidgets import (
