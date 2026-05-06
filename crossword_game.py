@@ -458,7 +458,7 @@ class CrosswordGame(QMainWindow):
                 wrong += 1
 
         if wrong == 0:
-            self.status_label.setText("🎉 Puzzle complete! Congratulations!")
+            self.status_label.setText("🎉🎉 Puzzle complete! Congratulations!")
             QMessageBox.information(self, "Solved!", "🎉 You completed the crossword!\n\nWell done!")
         else:
             self.status_label.setText(f"❌ {wrong} wrong answer(s). Keep trying!")
